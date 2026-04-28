@@ -8,3 +8,4 @@ pydantic_settings
 pymysql[rsa]
 cryptography
 bcrypt==4.1.2
+gunicorn
